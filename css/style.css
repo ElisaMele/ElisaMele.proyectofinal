@@ -6,9 +6,8 @@ font-family: 'Poppins', sans-serif;
 .body-index {
     font-family: 'Open Sans';
     color: #333;
-    font-size: 1.2rem;
-    line-height: 1.6em;
-    margin: 0;
+    font-size: 15px;
+   
 }
 
 h1 {
@@ -38,7 +37,6 @@ header h1 {
     color: white;
     font-size: 35px;
     font-weight: 100;
-    font-style: italic;
     position: center;
     bottom: 35px;
     margin-left: 10px;
@@ -46,7 +44,7 @@ header h1 {
 
 .logo-nav-conteiner {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -81,6 +79,25 @@ header h1 {
     padding-top: 10rem;
 }
 
+.bienvenidos {
+    width: 65%;
+    text-align: center;
+    background-color: #F0EDD4;
+    margin: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+img.redimension {
+    max-width: 65%;
+    
+    
+}
+
+.bienvenidos p {
+    font-size: 18px;
+    
+}
 .footer {
     background-color: #ccc;
     clear: both;
@@ -91,22 +108,9 @@ header h1 {
 }
 
 
-    
 /* Inicio Home*/
 
-.bienvenidos {
-    width: 100%;
-    padding-right: 10px;
-    background-color: #F0EDD4;
-}
 
-img.redimension {
-    max-width: 100%;
-}
-
-.bienvenidos p {
-    font-size: 18px;
-}
 
 /*Fin Home*/
 
