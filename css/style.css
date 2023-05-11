@@ -6,7 +6,8 @@ font-family: 'Poppins', sans-serif;
 .body-index {
     font-family: 'Open Sans';
     color: #333;
-    font-size: 15px;
+    font-size: 18px;
+    margin: 1%;
    
 }
 
@@ -20,7 +21,7 @@ p {
 }
 
 .container {
-    width: 85%;
+    width: 50%;
     max-width: 850px;
     margin: 0 auto;
 }
@@ -39,7 +40,7 @@ header h1 {
     font-weight: 100;
     position: center;
     bottom: 35px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .logo-nav-conteiner {
@@ -55,7 +56,7 @@ header h1 {
     padding: 0;
     list-style: none;
     display: flex;
-    margin-bottom: 20px;
+
 }
 
 .navigation ul li {
@@ -76,22 +77,21 @@ header h1 {
 }
 
 .main {
-    padding-top: 10rem;
+    padding-top: 130px;
 }
 
 .bienvenidos {
     width: 65%;
     text-align: center;
     background-color: #F0EDD4;
-    margin: 10%;
+    margin: 1%;
     justify-content: center;
     align-items: center;
 }
 
 img.redimension {
     max-width: 65%;
-    
-    
+
 }
 
 .bienvenidos p {
@@ -106,12 +106,4 @@ img.redimension {
     padding: 5px 0;
     margin-top: 6rem;
 }
-
-
-/* Inicio Home*/
-
-
-
-/*Fin Home*/
-
 

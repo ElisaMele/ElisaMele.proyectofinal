@@ -1,0 +1,31 @@
+.body-receipes {
+    font-family: 'Open Sans';
+    color: #333;
+    font-size: 18px;
+    margin: 1%;
+   
+}
+
+.main-receipes {
+    padding-top: 150px;
+}
+
+.img2 {
+    width: 30%;
+    border-style: double;
+    border-color: #98978B;
+ 
+}
+
+
+.item p {
+    font-size: 20px;
+    margin-right: 0.5rem;
+    margin-top: 0.25rem;
+}
+    
+
+
+.item text {
+    vertical-align: text-bottom;
+}
