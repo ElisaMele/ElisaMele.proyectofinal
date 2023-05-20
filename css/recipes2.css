@@ -1,0 +1,95 @@
+.main-recipe2 {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.image .receta-principal {
+    max-width: 30%;
+    border-style: double;
+    border-color: #98978B;
+    box-shadow: 0px 3px 5px rgba(15, 15, 15, .5);
+    float: left;
+    margin-right: 15px;
+}
+
+.image .title {
+    font-size: 30px;
+    color: #6D3139;
+    padding: 10px;
+}
+
+.image .description {
+    gap: 15px;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+}
+
+.item-text {
+    margin-left: 10px;
+}
+
+.recipe {
+    display: inline-block;
+    text-align: justify;
+}
+
+.recipe .preparation .step {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.ingredients {
+    float: left;
+    width: 35%;
+}
+
+.ingredients h1 {
+    font-size: 30px;
+}
+
+.ingredients h2 {
+    font-size: 18px;
+    color: #784D59;
+}
+
+.ingredients h3 {
+    font-size: 18px;
+    color: #784D59;
+}
+
+.preparation {
+    float: right;
+    width: 65%;
+}
+
+.preparation h4 {
+    font-size: 30px;
+}
+
+@media screen and (max-width: 992px) {
+    .image .receta-principal {
+        max-width: 50%;
+    }
+    .ingredients {
+        width: 100%;
+    }
+
+    .preparation {
+        float: left;
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 468px) {
+    .image .receta-principal {
+        max-width: 90%;
+    }
+
+    .ingredients {
+        width: 100%;
+    }
+}
