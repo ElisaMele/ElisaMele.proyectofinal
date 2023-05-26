@@ -10,3 +10,7 @@ cerrar.addEventListener("click", () => {
     nav.classList.remove("visible");
 })
 
+
+function goBack() {
+    window.history.back();
+}

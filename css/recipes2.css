@@ -70,10 +70,27 @@
     font-size: 30px;
 }
 
+.back-button {
+    position: absolute;
+    top: 140px;
+    right: 10px;
+    background-color: #eaeaea;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.back-button:hover {
+    background-color: #ccc;
+}
+
+
 @media screen and (max-width: 992px) {
     .image .receta-principal {
         max-width: 50%;
     }
+
     .ingredients {
         width: 100%;
     }
@@ -81,6 +98,11 @@
     .preparation {
         float: left;
         width: 90%;
+    }
+
+    .back-button {
+        top: 410px;
+        right: 400px;
     }
 }
 
@@ -91,5 +113,12 @@
 
     .ingredients {
         width: 100%;
+    }
+
+    .back-button {
+        font-size: 15px;
+        padding: 6px 12px;
+        top: 100px;
+        right: 250px;
     }
 }
