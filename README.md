@@ -7,7 +7,7 @@ Cuando entran a la sección de "recetas", deben hacer "click" en cada imagen par
 ![captura5](https://github.com/elisam75/elisam75.github.io/assets/129458975/81e6c28c-2da5-4995-a8f3-4fe08b31fbe5)
 ![captura](https://github.com/elisam75/elisam75.github.io/assets/129458975/7f2dc7bb-35ca-4197-8e89-f444801ad354)
 
-
+#
 En la sección "tips y trucos" encontrarán tips básicos que los ayudarán a la hora de cocinar.
 ![captura2](https://github.com/elisam75/elisam75.github.io/assets/129458975/429a4961-d06d-40a4-9b39-cd20daf285cd)
 
