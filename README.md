@@ -18,3 +18,10 @@ La página es adaptable a cualquier dispositivo. Deberán tocar el botón para p
 ![captura 3](https://github.com/elisam75/elisam75.github.io/assets/129458975/6f4b37d8-526f-492f-abda-78ec5423f540)
 ![captura4](https://github.com/elisam75/elisam75.github.io/assets/129458975/a1c9b089-cc92-4f15-a32b-44ca4eba48f9)
 
+
+
+#
+La página es adaptable a cualquier dispositivo. Deberán tocar el botón para poder acceder al menú de la barra de navegación, como se muestra acá:
+![captura 3](https://github.com/elisam75/elisam75.github.io/assets/129458975/6f4b37d8-526f-492f-abda-78ec5423f540)
+![captura4](https://github.com/elisam75/elisam75.github.io/assets/129458975/a1c9b089-cc92-4f15-a32b-44ca4eba48f9)
+
